@@ -10,14 +10,14 @@ Git is a Source Control Management tool (SCM). It keeps a history of multiple fi
 
 ### Common Terms in Git
 
-- Repository - A project, workspace or folder containing your codebase.
+- Repository (or repo) - A project, workspace or folder containing your codebase.
 - Staging - State the files that are to be added, those that have changed or those that have been deleted from repository for a commit.
 - Commit - A saved snapshot of the codebase that has an associated hash.
 - Branch - A separate history chain that can later be merged into other branches.
 - Clone - A machine local copy of a repository, usually obtained from a remote repository hosting service (GitHub, GitLab).
 - HEAD - The top (most recent) commit of a branch or repository.
 - Checkout - The means to switch to a branch (HEAD) or commit.
-- Pull/Push - Sync local repository with remote repository by pushing your changes your pulling the remote ones.
+- Pull/Push - Sync local repository with remote repository by pushing up your changes or pulling in the remote ones.
 - Fetch - Pull metadata about for remote changes without integrating remote changes.
 - Merge - Combine the history of another branch into the current branch.
 - Stash - Save changes in a temporary save commit as a Work-In-Progress (WIP).
@@ -25,12 +25,13 @@ Git is a Source Control Management tool (SCM). It keeps a history of multiple fi
 - Rebase - A technique for reapplying commits on top of a base branch HEAD.
 - Diff - The difference between a file, folder, commit or branch across commits and branches.
 - Remote -  A copy of a repository that lives off machine.
+- Pull Request - A request to merge a branches changes into your branch (usually a feature branch into `main`).
 
 ### Git Workflow
 
 The basic workflow for getting started with  are as follows:
 
-1. Initialise a repository [Create]
+1. Initialise a repository [ie. create the repository]
 2. Add/write file contents
 3. Stage changes
 4. Commit changes

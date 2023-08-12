@@ -15,6 +15,8 @@ Git is predominately used through its command line interface (CLI). This means G
 |   `pull`   |               Pull changes from remote repository               |
 |   `fetch`  | Pull changes from remote repository without integrating changes |
 |  `rebase`  |           Reapply commits on top of new branch `HEAD`           |
+|  `status`  |     List the currently modified files and status of remotes     |
+|   `tag`    |           Create or list a tag at the current `HEAD`            |
 
 There are many more commands within Git's CLI. You can view them and their functionality using Git's Manpage. To access the Manpage run the following commands.
 

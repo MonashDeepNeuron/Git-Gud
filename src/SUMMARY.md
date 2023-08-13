@@ -10,9 +10,8 @@
   - [Changes, Staging and Commits](git/changes-staging-commits.md)
   - [Branches, Stashes and Tags](git/branches.md)
   - [Merging](git/merging.md)
-  - [Rebasing](git/rebasing.md)
-  - [Dealing with Conflicts](git/conflicts.md)
   - [Configuring Git](git/config.md)
+  <!-- - [Rebasing](git/rebasing.md) -->
 
 - [GitHub](github/github.md)
   - [Setup](github/setup.md)

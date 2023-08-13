@@ -4,7 +4,7 @@ The properties and behaviour of Git can be customized using special files within
 
 ## `.gitignore`
 
-The `.gitignore` file is used to specify files or file patterns you wish for Git to ignore. File patterns are specified using Unix based globbing (ie. the use of wildcard patterns).
+The `.gitignore` file is used to specify files or file patterns you wish for Git to ignore. File patterns are specified using Unix based [globbing](https://linux.die.net/man/7/glob) (ie. the use of wildcard patterns).
 
 ## `.gitattributes`
 

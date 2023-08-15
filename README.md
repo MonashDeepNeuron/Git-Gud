@@ -2,7 +2,7 @@
 
 ## Monash DeepNeuron's Git and GitHub Training Book
 
-[![Deploy mdBook site to Pages](https://github.com/MonashDeepNeuron/Git-Gut/actions/workflows/mdbook.yml/badge.svg)](https://github.com/MonashDeepNeuron/Git-Gut/actions/workflows/mdbook.yml)
+[![Deploy mdBook site to Pages](https://github.com/MonashDeepNeuron/Git-Gud/actions/workflows/mdbook.yml/badge.svg)](https://github.com/MonashDeepNeuron/Git-Gut/actions/workflows/mdbook.yml)
 
 This repository contains the source code for the HPC Training content and challenges for new HPC recruits. This book is available online or can be built locally.
 
@@ -17,7 +17,7 @@ cargo install mdbook
 You can build this book you must clone this repository using Git. You can then build it and even serve it to localhost to view in your browser. The serve command will produce a localhost you can view.
 
 ```sh
-$ git clone https://github.com/MonashDeepNeuron/HPC-Training.git
+$ git clone https://github.com/MonashDeepNeuron/Git-Gud.git
 $ cd Git-Gud
 
 # Build ...

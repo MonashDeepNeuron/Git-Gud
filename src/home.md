@@ -14,6 +14,6 @@ You can contribute to the book by accessing its GitHub repository (GitHub log in
 
 <div style="font-size: 0.75em;">
   <center>
-    <img src="https://img.shields.io/github/v/release/MonashDeepNeuron/Git-Gut?include_prereleases" alt="Current Release">
+    <img src="https://img.shields.io/github/v/release/MonashDeepNeuron/Git-Gud?include_prereleases" alt="Current Release">
   </center>
 </div>

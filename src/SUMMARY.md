@@ -15,11 +15,9 @@
 
 - [GitHub](github/github.md)
   - [Setup](github/setup.md)
-  - [Creating a remote repository](github/create.md)
-  - [Cloning](github/cloning.md)
+  - [Creating, Cloning and Uploading Remote Repositories](github/create-cloning-upload.md)
   - [Push, Pull, Fetch](github/push-pull-fetch.md)
   - [Forks](github/forks.md)
-  - [Upload Existing Repository](github/upload.md)
   - [Collaborating](github/collaboration.md)
   - [Issues](github/issues.md)
   - [Pull Requests](github/pr.md)

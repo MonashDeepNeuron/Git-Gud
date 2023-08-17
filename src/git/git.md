@@ -27,6 +27,8 @@ Git is a Source Control Management tool (SCM). It keeps a history of multiple fi
 - Remote -  A copy of a repository that lives off machine.
 - Pull Request - A request to merge a branches changes into your branch (usually a feature branch into `main`).
 - Fork -  A fork is a clone of a repository that shares its history and acts similar to a branch but is logically separated from the original with the forkee as the owner of the fork.
+- Upstream - The source location of a repository.
+- OSS - Acronym for Open Source Software.
 
 ### Git Workflow
 

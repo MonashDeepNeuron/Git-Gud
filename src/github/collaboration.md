@@ -13,11 +13,11 @@ A large proportion of text written on GitHub is written in Markdown (like this b
 
 GitHub's extensions to Markdown include some common extensions found across many Markdown parsers including support for Strikethrough text, tables and task list items (checklist). These allow you to express more complex structures with Markdown however are not that interesting and specific to GitHub. You can see the syntax for most of Markdown in the second and third links above including these common extensions.
 
-More interesting are the collaboration based extensions to Markdown that are specific to GitHub. Within any Markdown text on GitHub you are able to link and refer to issues, discussions, Pull Requests (PR), commits, people and even organisation teams from any repo/org. This is done by using the characters `#` and `@` as prefixes.
+More interesting are the collaboration based extensions to Markdown that are specific to GitHub. Within any Markdown text on GitHub you are able to link and refer to Issues, discussions, Pull Requests (PR), commits, people and even organisation teams from any repo/org. This is done by using the characters `#` and `@` as prefixes.
 
 ### Prefix - `#`
 
-You may notice that issues, PRs and discussions have an associated #-number. This is used to reference the item within other items of the same or other repos. The `#` prefix can be used to create a link to the item in the Markdown of the current item. The Markdown editors on GitHub will even render a scrollable UI component you can use to search by name for the item you want to link when you type start typing `#`. You can even reference items from different repos (as long as they are public) by prefixing the `#` with the name of the owner (GitHub username) and the repos name eg. `MonashDeepNeuron\HPC-Training#1`. You can also create a pretty link if you put the link somewhere in a list item.
+You may notice that Issues, PRs and discussions have an associated #-number. This is used to reference the item within other items of the same or other repos. The `#` prefix can be used to create a link to the item in the Markdown of the current item. The Markdown editors on GitHub will even render a scrollable UI component you can use to search by name for the item you want to link when you type start typing `#`. You can even reference items from different repos (as long as they are public) by prefixing the `#` with the name of the owner (GitHub username) and the repos name eg. `MonashDeepNeuron\HPC-Training#1`. You can also create a pretty link if you put the link somewhere in a list item.
 
 ### Prefix - `@`
 

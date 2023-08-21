@@ -6,4 +6,4 @@ Your first task is to sign up for a GitHub account, if you haven't already. I wo
 
 [GitHub - Join](https://github.com/join)
 
-It is also a good idea to install the GitHub mobile app. This allows you track and manage projects and reply to messages and issues from your phone.
+It is also a good idea to install the GitHub mobile app. This allows you track and manage projects and reply to messages and Issues from your phone.

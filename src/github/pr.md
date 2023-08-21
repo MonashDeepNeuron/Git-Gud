@@ -6,11 +6,11 @@ Pull Requests (PRs) are request from collaborators to pull in their new changes 
 
 ## Discussion Thread
 
-Just like issues, PRs also have a discussion thread that allow conversations about the PR to be in the same place as the PR.
+Just like Issues, PRs also have a discussion thread that allow conversations about the PR to be in the same place as the PR.
 
 ## Closing a PR
 
-Again, like issues you can close a PR meaning it cannot be merged without reopening the PR.
+Again, like Issues you can close a PR meaning it cannot be merged without reopening the PR.
 
 ## Reviewers
 
@@ -34,7 +34,7 @@ You can make an PR a part of a milestones progress.
 
 ## Development
 
-This section shows the issues that are linked to the PR. Issues can be linked by creating the branch from the issue or by using ['Closing Keywords'](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue) in the description of the PR.
+This section shows the Issues that are linked to the PR. Issues can be linked by creating the branch from the Issue or by using ['Closing Keywords'](https://docs.github.com/en/Issues/tracking-your-work-with-Issues/linking-a-pull-request-to-an-Issue) in the description of the PR.
 
 ## Notifications
 

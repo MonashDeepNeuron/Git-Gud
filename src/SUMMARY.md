@@ -10,14 +10,15 @@
   - [Changes, Staging and Commits](git/changes-staging-commits.md)
   - [Branches, Stashes and Tags](git/branches.md)
   - [Merging](git/merging.md)
+  - [Rebasing](git/rebasing.md)
   - [Configuring Git](git/config.md)
-  <!-- - [Rebasing](git/rebasing.md) -- below `Merging` page -->
 
 - [GitHub](github/github.md)
   - [Setup](github/setup.md)
   - [Creating, Cloning and Uploading Remote Repositories](github/create-cloning-upload.md)
   - [Push, Pull, Fetch](github/push-pull-fetch.md)
   - [Forks](github/forks.md)
+  - [Template Repositories](github/templates.md)
   - [Collaborating](github/collaboration.md)
     - [Issues](github/issues.md)
     - [Pull Requests](github/pr.md)
@@ -27,8 +28,7 @@
     - [Discussions](github/discussions.md)
     - [Licensing and OSS](github/licenses-oss.md)
     - [A Sample Workflow](github/workflow.md)
-  - [Template Repositories](github/templates.md)
   - [GitHub Pages](github/pages.md)
-  - [GitHub Organisations](github/orgs.md)
+  <!-- - [GitHub Organisations](github/orgs.md) -->
 
 - [Acknowledgements](acknowledgements.md)

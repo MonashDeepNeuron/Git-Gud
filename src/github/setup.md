@@ -3,8 +3,14 @@
 Once you have a GitHub account setup, it is a good idea to link it with you local Git configuration for your system. Open a new shell and run the following commands, filling in your own details.
 
 ```sh
+# Set the name that is identifiable for credit when review version history
 git config --global user.name "github-username"
+
+# Set an Email address that will be associated with each history marker
 git config --global user.email "github-email"
+
+# Set automatic command line coloring for Git for easy reviewing
+git config --global color.ui auto
 ```
 
 ## GitHub Personal Access Tokens

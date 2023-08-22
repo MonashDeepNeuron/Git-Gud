@@ -24,11 +24,11 @@
     - [Pull Requests](github/pr.md)
     - [Milestones](github/milestones.md)
     - [Tags and Releases](github/releases.md)
-    - [Wikis](github/wikis.md)
+    - [Wikis]() <!-- (github/wikis.md) -->
     - [Discussions](github/discussions.md)
     - [Licensing and OSS](github/licenses-oss.md)
     - [A Sample Workflow](github/workflow.md)
   - [GitHub Pages](github/pages.md)
-  <!-- - [GitHub Organisations](github/orgs.md) -->
+  - [GitHub Organisations]() <!-- (github/orgs.md) -->
 
 - [Acknowledgements](acknowledgements.md)

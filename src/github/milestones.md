@@ -1,0 +1,3 @@
+# Milestones
+
+Milestones are a easy progression trackers that can be used to, well mark important Milestones for a project and link this progress to the resolution of Issues or merging of PRs. Milestones also have an end date associated with them to help keep you on track. To create a Milestone, go to either the 'Issues' or 'Pull requests' tab of the repo and to the top right of the list views you will see a button called 'Milestones'. From this page you can create a Milestone. Issues and PRs are added to the Milestone from the page of the particular time you want to add. Milestones are good for tracking large goals that span many Issues and PRs. You must go back to the Milestones page and close it manually to meat the Milestones deadline.

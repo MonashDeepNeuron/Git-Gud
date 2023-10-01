@@ -9,7 +9,7 @@ The section of the book is designed to be a quick reference to some of the most 
 ## Setup
 
 ```sh
-# Set the name that is identifiable for credit when review version history
+# Set the name that is identifiable for credit when reviewing version history
 git config --global user.name "github-username"
 
 # Set an Email address that will be associated with each history marker
@@ -48,7 +48,7 @@ git diff
 git diff --staged
 
 # Commit staged changes w/ message
-git commit -m "Commit Message"
+git commit -m "Your commit message"
 ```
 
 ## Branches
@@ -73,13 +73,13 @@ git merge <incoming-branch>
 ## Inspecting and Compare
 
 ```sh
-# Show commits from current branch's history 
+# Show commits from the current branch's history
 git log
 
 # Show commits on branch-A not on branch-B
 git log <branch-B>..<branch-A>
 
-# Show commits that modified file, even across renames
+# Show commits that modified a given file, even across renames
 git log --follow <file>
 
 # Show diff of what is in branch-A that is not on branch-B
@@ -98,10 +98,10 @@ git remote add <remote> <url>
 # Retrieve changes from remote without integrating changes
 git fetch <remote>
 
-# Fetch and merge changes from remote from the tracked remote branch
-git pull
+# Fetch and merge changes from a remote branch into your local branch
+git pull <remote>
 
-# Transmit changes from local branch to remote onto branch
+# Transmit changes from local branch into a remote branch
 git push <remote> <branch>
 
 # Set current branch to track branch at remote
@@ -130,7 +130,7 @@ git reset --hard <commit-hash>
 # Save modified and staged changes in stash
 git stash
 
-# Show all stashes in stack-order 
+# Show all stashes in stack-order
 git stash list
 
 # Pop stash from top of stash-stack

@@ -3,7 +3,7 @@
 Merging is the process of combining two (or more) histories together. The commits of the branch being merged into another are 'replayed' onto the 'base' branch synchronizing the histories and finally combining the result into a single commit. Merging two branches requires the branches have a common ancestor commit that can be used as the base of the combined histories. To merge branches we use the `merge` command, supplying the name of the branch we want to merge, which will be merged into the the current branch.
 
 ```sh
-# Merge branch 'feature' into this branch
+# Merge branch 'feature' into your current branch
 git merge feature
 ```
 

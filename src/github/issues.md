@@ -4,31 +4,31 @@ Issues are a fundamental tool for users and collaborators to express faults in a
 
 ## Discussion Thread
 
-Following the original creation of an Issue and its description, collaborators can reply to Issue using the discussion thread. This is a history of all actions and comments made on an Issue and can be used to focus discussions about the Issue at the Issues location. You can also add reactions to an Issues or comment.
+Following the original creation of an Issue and its description, collaborators can reply to the Issue using the discussion thread. This is a history of all actions and comments made on an Issue and can be used to focus discussions about the Issue at the Issue's location. You can also add reactions to an Issue or comment.
 
 ## Closing an Issue
 
-In the dialog box that is used to craft a comment, there is an option to close the Issues which marks the Issue as resolved or alternatively, you can close an Issue as "Won't Fix" meaning the Issue will not be resolved or considered. You can also reopen the Issue if it persists or becomes an Issue again.
+In the dialog box that is used to craft a comment, there is an option to close the Issue which marks the Issue as resolved or alternatively, you can close an Issue as "Won't Fix" meaning the Issue will not be resolved or considered. You can also reopen the Issue if it persists or becomes an Issue again.
 
 ## Todos
 
-Using a Markdown checklist in the description of an Issue will at a todo meter and item count to the top of the Issues page as well as to the Issues row on the 'Issues' tab. List can be treated like a regular todo/checklist list for anything that needs to be down to complete the Issue where you can tick/untick items as you go and it will be reflected in the UI.
+Using a Markdown checklist in the description of an Issue will add a todo meter and item count to the top of the Issue's page as well as to the Issues row on the 'Issues' tab. List can be treated like a regular todo/checklist list for anything that needs to be done to complete the Issue where you can tick/untick items as you go and it will be reflected in the UI.
 
 ## Assignees
 
-Assignees allow you to add a person you want to work on a particular Issue. You can assign individual users or teams if within an organisation.
+Assignees allow you to add a person you want to work on a particular Issue. You can assign individual users or teams within an organisation.
 
 ## Labels
 
-Labels are descriptor tags that can make it easier to categories Issues which can make it easier to find or group common Issues together.
+Labels are descriptor tags that can make it easier to categorise Issues, allowing us to find or group common Issues together.
 
 ## Projects
 
-This section allows you to add your Issue to a project board and have it tracked by GitHub automatically allowing better integration between a repos Issues and the general management of the team or organisation.
+This section allows you to add your Issue to a project board and have it tracked by GitHub automatically allowing for better integration between a repo's Issues and the general management of the team or organisation.
 
 ## Milestones
 
-You can make an Issue a part of a milestones progress.
+You can make an Issue a part of a milestone's progress.
 
 ## Development
 
@@ -48,7 +48,7 @@ Lock the conversation from further modifications (usually for archival purposes)
 
 ## Pin Issues
 
-Pin the Issue on the repos main 'Issues' tab putting it at the forefront of all collaborators view.
+Pin the Issue on the repos main 'Issues' tab putting it at the forefront of all collaborators' view.
 
 ## Convert to Discussion
 

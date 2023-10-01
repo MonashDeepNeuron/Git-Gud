@@ -1,10 +1,10 @@
 # Push, Pull, Fetch
 
-When interacting with remote repos, there are three key operations you will perform frequently. These are pushing your local changes to a remote, pulling and integrating new changes from a remote and fetching the metadata of available changes. All these changes
+When interacting with remote repos, there are three key operations you will perform frequently. These are pushing your local changes to a remote repo, pulling and integrating new changes from a remote into your local repo and fetching the metadata of available changes.
 
 ## Push
 
-Pushing is the process of uploading our local changes to a remote location. You can also use the `-u` flag to setup a new remote reference if the local branch does not exist on the remote yet.
+Pushing is the process of uploading our local changes to a remote location. You can also use the `-u` flag to set up a new remote reference if the local branch does not exist on the remote yet.
 
 ```sh
 git push <remote-name>
@@ -21,7 +21,7 @@ git pull <remote-name>
 
 ## Fetch
 
-Fetching is a very powerful tool. It allows us to pull the updated refs from a remote location with integrating the changes meaning we can view what has changed before our local history is fast-forwarded or merged with the corresponding remote branch.
+Fetching is a very powerful tool. It allows us to pull the updated refs from a remote location without integrating the changes into your local repo meaning that we can view what has changed before our local history is fast-forwarded or merged with the corresponding remote branch.
 
 ```sh
 git fetch <remote-name>

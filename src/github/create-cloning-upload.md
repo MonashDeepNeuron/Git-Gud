@@ -1,6 +1,6 @@
 # Creating and Cloning a Remote Repository
 
-Creating and cloning a repository on GitHub is super simple. Simply go to [github.com](https://github.com) and click the green 'New' button on the left panel. This will instruct you on how to create a repository. You will have to give your repo a name, possibly a description and attach a software license and `README.md`. Additionally you can have it generate a `.gitignore` for the programming language the source code of the repo will written in to prevent commonly ignore files (eg. executables and binaries) to be committed. This will then generate a very boilerplate repo which you can then clone using the `clone` command via SSH or HTTP.
+Creating and cloning a repository on GitHub is super simple. Simply go to [github.com](https://github.com) and click the green 'New' button on the left panel. This will instruct you on how to create a repository. You will have to give your repo a name, a description (optional) and attach a software license and `README.md`. Additionally, you can have it generate a `.gitignore` for the programming language that the source code of the repo will be written in to prevent commonly ignored files (e.g. executables and binaries) from being committed. This will then generate a very boilerplate repo which you can then clone using the `clone` command via SSH or HTTP.
 
 ```sh
 # Clone with SSH
